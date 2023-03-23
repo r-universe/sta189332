@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "OBL"]
+	path = OBL
+	url = https://github.com/cran/OBL
+	shallow = true
+	registered = true
 [submodule "paramsim"]
 	path = paramsim
 	url = https://github.com/sta189332/paramsim
